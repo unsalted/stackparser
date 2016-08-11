@@ -1,0 +1,94 @@
+As someone who is not a lawyer, but is familiar with FERPA and university policies as a former instructor, I would be more than willing to bet that you signed or otherwise agreed to some type of Terms of Service before being given access to that type of service.  There are almost certainly numerous things you signed to become a student, as well as various policies you agreed to in first gaining access to the computer services, which would apply here.
+
+I can tell you with certainty that the school where I was a student had a policy that I agreed to that they would make certain information available to other students unless I chose for it to be restricted.  However, my university did not have any photos of students that were viewable by other students in a directory.
+
+That said, there were also times I participated in extra-curricular activities where I was required to sign release forms giving the school the rights to video tape, record, and photograph me, and to do what they wished with those things.  So, with that in mind, I suspect that's partly due to FERPA restrictions, but also largely due to their own privacy policies that go beyond what FERPA requires.  All in all, I doubt they would be okay with you using their photos for your own private use - student privacy is something that is taken very seriously.The legislation in question is section 3A of the Computer Misuse Act 1990 (this section was added to the original text of the CMA by section 37 of the Police and Justice Act 2006):
+
+
+  3A Making, supplying or obtaining articles for use in offence under section 1 or 3
+  
+  (1) A person is guilty of an offence if he makes, adapts, supplies or
+  offers to supply any article intending it to be used to commit, or to
+  assist in the commission of, an offence under section 1 or 3.
+  
+  (2) A person is guilty of an offence if he supplies or offers to
+  supply any article believing that it is likely to be used to commit,
+  or to assist in the commission of, an offence under section 1 or 3.
+  
+  (3) A person is guilty of an offence if he obtains any article with a
+  view to its being supplied for use to commit, or to assist in the
+  commission of, an offence under section 1 or 3.
+  
+  (4) In this section “article” includes any program or data held in
+  electronic form.
+
+
+(Sections 1 and 3 refer to unauthorised access and impairing the operation of computer)
+
+In England and Wales, prosecutions are brought by the Crown Prosecution Service, there are  guidelines produced by the CPS for section 3A:
+
+
+  Prosecutors should be aware that there is a legitimate industry
+  concerned with the security of computer systems that generates
+  'articles' (this includes any program or data held in electronic form)
+  to test and/or audit hardware and software. Some articles will
+  therefore have a dual use and prosecutors need to ascertain that the
+  suspect has a criminal intent.
+
+
+...
+
+
+  Prosecutors dealing with dual use articles should consider the
+  following factors in deciding whether to prosecute:
+  
+  Does the institution, company or other body have in place robust and
+  up to date contracts, terms and conditions or acceptable use polices?
+  
+  Are students, customers and others made aware of the CMA and what is
+  lawful and unlawful? 
+  
+  Do students, customers or others have to sign a
+  declaration that they do not intend to contravene the CMA?
+
+
+For Section 3A (2):
+
+
+  In determining the likelihood of an article being used (or misused) to
+  commit a criminal offence, prosecutors should consider the following: 
+  
+  Has the article been developed primarily, deliberately and for the
+  sole purpose of committing a CMA offence (i.e. unauthorised access to
+  computer material)?  
+  
+  Is the article available on a wide scale commercial basis and sold through
+  legitimate channels?  
+  
+  Is the article widely used for legitimate purposes?  
+  
+  Does it have a substantial installation base?  
+  
+  What was the context in which the article was used to commit the offence 
+  compared with its original intended purpose?
+
+
+Original answer from Sec.SE by Tom77Internationally, according to the Berne Convention, &quot;copyrights for creative works are automatically in force upon their creation without being asserted or declared&quot; (Wikipedia). However, in the United States, you can register your work with the US Copyright Office to receive additional protection and benefits, such as (if you promptly register) being granted statutory damages and attorney’s fees in case of infringement.I would point to a concept that I feel to some degree answers your questions, the &quot;runaway jury&quot;. The idea being that the jury finds itself unsatisfied with whatever it is the prosecutor is telling them, and moves on by itself.
+Because of the investigative powers of a grand jury, the jurors could in theory investigate a matter on their own, even without the cooperation of the prosecutor.
+Thus for example we have the case of a New York grand jury in the 1930s, who came to the conclusion that the prosecutor was corrupt, and went to the newspapers while continuing the investigation on their own, until a new prosecutor was appointed.
+Sources: http://campus.udayton.edu/~grandjur/faq/faq8.htm
+http://en.wikipedia.org/wiki/William_C._Dodge#Runaway_grand_juryIn the United States, appeals are generally appeals on the record. The only thing that can be challenged is process; that is, appeals must contend that there was something unfair or incorrect about the process of the original proceeding.Attorney-Client privilege is a one-way duty: The Attorney has to maintain protected information in confidence.  It's a professional duty supported in law.  There is no corresponding duty for the Client to maintain anything in confidence. The client can waive the privilege at will. Some sample limitations to waivers are governed by Federal Rule Evidence 502.
+
+(Granted, in this scenario the concerned board member may be bound by some confidentiality agreement or fiduciary obligation as a consequence of service on the board, or membership in the association, but that's a different matter.)Attorney-Client privilege only applies when a client tells an attorney something. See the Wikipedia article. Based on the description you gave, the communication was not privileged, and so yes, the board member can share the information with his or her personal lawyer. However, the board member may have signed agreements to not disclose information, which is not under the scope of Attorney-Client privilege restrictions.Any recourse is through the consulate country's government.  International Law does not provide for one country to meddle in the administrative affairs of another.
+
+The only other recourse is to seek asylum or citizenship in another country from which you might obtain whatever services are being denied to you.The Louisiana Civil Code of 1870 (it was revised between 1868-1869, but enacted in 1870) applied specifically to civil cases (i.e. disputes between private parties); it's organized by topic area, and is there to keep people from having to comb through every law ever passed that has to do with civil cases. The Revised Statutes of 1870 gathered all the laws of &quot;general character&quot; into one place, for the same reason. The difference between the two was almost certainly an error.
+
+In general, there is one official version of the law; other versions are a convenience. The official version normally defaults to the individual laws passed by the legislature (which are organized by date, not by anything useful for finding relevant laws), but that can be changed by statute. In this case, the Revised Statutes contains section 3990, which says
+
+
+  in so far as there may be any conflict between the provisions of this act and any provision of the said Revised Civil Code and Code of Practice, that said Code shall be held and taken as the law governing
+
+
+So, the Civil Code took precedence.
+
+Your revisions of 1876 and 1882 were not successor laws; rather, they were compilations of the Revised Statutes and Civil Code of 1870 with the amendments to those that had since been passed. The Revised Statutes from 1876 were really the Revised Statutes of 1870, modified by later laws (that didn't touch the divorce provisions). Likewise, the Civil Code from 1882 was really the Revised Civil Code of 1870, modified by later laws. The Civil Code of 1870 still took precedence over the Revised Statutes of 1870, so the divorce provisions of the Civil Code were authoritative.
