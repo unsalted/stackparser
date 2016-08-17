@@ -51,7 +51,7 @@ var Parser = function () {
       var config = this.config;
       var type2 = config.type === 2 && item.PostTypeId === '2';
       var type1 = config.type === 1 && item.PostTypeId === '1';
-      var threshold = config.threshold >= item.Score || !config.threshold;
+      var threshold = config.threshold >= parseInt(item.Score) || !config.threshold;
       // checking for config pass if threshold but no type
       if (!config || threshold && config.type === 0) {
         return true;
