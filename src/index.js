@@ -30,7 +30,7 @@ class Parser {
     const config = this.config
     const type2 = (config.type === 2 && item.PostTypeId === '2')
     const type1 = (config.type === 1 && item.PostTypeId === '1')
-    const threshold = (config.threshold >= item.Score || !config.threshold)
+    const threshold = (config.threshold >= parseInt(item.Score) || !config.threshold)
     // checking for config pass if threshold but no type
     if (!config || (threshold && config.type === 0)) {
       return true
